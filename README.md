@@ -200,7 +200,7 @@ python train_model.py
 Training results will be saved inside:
 
 ```
-runs/classify/train/
+runs/classify/train4/
 ```
 
 The best trained model will be:
