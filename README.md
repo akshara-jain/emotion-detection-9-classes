@@ -248,15 +248,17 @@ Accuracy depends on:
 
 During training, the following graphs are generated:
 
-- Training Accuracy vs Epochs
 - Validation Accuracy vs Epochs
-- Loss Curve
+  <img width="1200" height="1200" alt="results" src="https://github.com/user-attachments/assets/e65e3a2d-3776-4526-9770-b0e6f040432f" />
 - Confusion Matrix
+  <img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/547d55eb-9d77-4dc6-9420-32e92352ac68" />
+
+
 
 These graphs are automatically saved in:
 
 ```
-runs/classify/train/
+runs/classify/train4/
 ```
 
 ---
