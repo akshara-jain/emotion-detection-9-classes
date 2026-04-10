@@ -79,7 +79,7 @@ yolov8n-cls.pt
 
 The dataset used in this project is publicly available on Kaggle:
 
-🔗[ https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/aklimarimi/8-facial-expressions-for-yolo)
+🔗[ https://www.kaggle.com/datasets/9-emotions](https://www.kaggle.com/datasets/aklimarimi/8-facial-expressions-for-yolo)
 
 > ⚠️ Due to GitHub file size limitations, the dataset is not included in this repository.
 
